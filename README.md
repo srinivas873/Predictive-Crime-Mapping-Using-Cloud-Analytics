@@ -100,17 +100,13 @@ crime-hotspot-detection/
 ## 🤝 Contributing
 Feel free to contribute! Fork this repo, create a branch, and submit a PR.
 
----
-
-## 📜 License
-MIT License © [Your Name]
 
 ---
 
 ## 📬 Contact
-📧 Email: yourname@email.com  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+📧 Email: srinivasnarayanaramm@email.com  
+🔗 GitHub: https://github.com/srinivas873 
+🔗 LinkedIn: https://www.linkedin.com/feed/
 
 ---
 
